@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1784997190532,
+      "tag": "0000_fixed_salo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1784999147886,
+      "tag": "0001_fresh_mach_iv",
+      "breakpoints": true
+    }
+  ]
+}

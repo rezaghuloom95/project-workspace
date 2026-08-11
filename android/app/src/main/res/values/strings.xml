@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project Workspace</string>
+    <string name="planner_url">https://club-media-planner.invalid</string>
+    <string name="notification_channel_name">Club planner updates</string>
+    <string name="notification_channel_description">Event reminders, assignments, approvals, and schedule changes</string>
+</resources>
