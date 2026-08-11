@@ -43,6 +43,7 @@ next-env.d.ts
 /outputs/
 /work/
 /*.zip
+!/Hostinger-Upload-Project-Workspace.zip
 
 # generated Hostinger deployment package
 /hostinger-package/

@@ -48,12 +48,12 @@ The `.gitignore` file prevents these private or generated files from being publi
 - `.env` files
 - installed dependencies (`node_modules`)
 - build output (`dist`)
-- Hostinger deployment package and ZIP archives
+- generated Hostinger package folder and source ZIP archives
 - live JSON database and backup
 - SMTP email configuration
 - uploaded customer logos and branding
 
-Never force-add those files. A ready-to-upload Hostinger ZIP can be kept privately on your Mac or attached separately to a GitHub Release when appropriate.
+Never force-add those files. The exact `Hostinger-Upload-Project-Workspace.zip` installation package is the only ZIP intentionally included so the README download link works.
 
 ## Recommended repository details
 

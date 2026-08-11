@@ -27,9 +27,10 @@ shared view of what is happening, who owns it, what is required, and what is sti
 
 ## No-software use
 
-Upload the generated `Hostinger-Upload-Project-Workspace.zip` to `public_html` and extract it. The
-deployment does not need npm, Node.js, Android Studio, a database, or an external
-application server. Follow [HOSTINGER-UPLOAD.md](HOSTINGER-UPLOAD.md).
+[Download the ready-to-upload Hostinger package](Hostinger-Upload-Project-Workspace.zip),
+upload it to `public_html`, and extract it. The deployment does not need npm, Node.js,
+Android Studio, a database, or an external application server. Follow
+[HOSTINGER-UPLOAD.md](HOSTINGER-UPLOAD.md).
 
 On Android, open the hosted URL in Chrome and choose **Install app**. The installed PWA
 provides the complete mobile interface without Android Studio or APK sideloading.
@@ -39,7 +40,7 @@ provides the complete mobile interface without Android Studio or APK sideloading
 - `app/` — interface
 - `hostinger-backend/` — same-host PHP API and protected JSON storage rules
 - `hostinger-web/` — production web entry point and local preview adapter
-- `hostinger-package/` — generated files that go directly inside `public_html`
+- `Hostinger-Upload-Project-Workspace.zip` — complete installation package for `public_html`
 - `public/` — installable/offline assets
 - `android/` — optional native Android wrapper source
 - `HOSTINGER-UPLOAD.md` — upload, update, backup, and recovery steps
