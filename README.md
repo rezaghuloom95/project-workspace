@@ -25,6 +25,24 @@ shared view of what is happening, who owns it, what is required, and what is sti
 - A PHP cron worker sends assignments, changes, and reminders while every
   browser is closed.
 
+## Product tour
+
+The interface below shows Project Workspace configured for a sports media team.
+Administrators can replace the organization name, logos, colors, timezone, categories,
+and operating defaults for any type of team. Click any preview to view it full size.
+
+[![Project Workspace dashboard with daily priorities, upcoming work, and team performance](docs/screenshots/dashboard-overview.png)](docs/screenshots/dashboard-overview.png)
+
+| Branding and workspace settings | Guided event creation |
+| :---: | :---: |
+| [![Administrator branding, color, and regional settings](docs/screenshots/branding-settings.png)](docs/screenshots/branding-settings.png) | [![Two-step event creation with coverage and team assignment](docs/screenshots/event-creation.png)](docs/screenshots/event-creation.png) |
+| **Configurable branding and regional defaults** | **Fast creation with automatic tasks and reminders** |
+
+| Event workspace | Team task management |
+| :---: | :---: |
+| [![Event workspace with readiness status, quick actions, and operational details](docs/screenshots/event-workspace.png)](docs/screenshots/event-workspace.png) | [![Team task list with owners, due dates, and workflow status](docs/screenshots/team-tasks.png)](docs/screenshots/team-tasks.png) |
+| **Readiness, assignments, content, and activity in one workspace** | **Clear ownership, deadlines, reviews, and completion states** |
+
 ## No-software use
 
 [Download the ready-to-upload Hostinger package](Hostinger-Upload-Project-Workspace.zip),
